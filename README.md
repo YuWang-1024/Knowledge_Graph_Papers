@@ -10,4 +10,13 @@ A list of papers in Knowledge Graph
 
 | Year | Title                                                       | Venue | Code |
 | -----|-------------------------------------------------------------| ----- | ---- |
-| 2021 |[Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks](https://aclanthology.org/2021.acl-long.376.pdf) | ACL| code
+| 2021 |[Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks](https://aclanthology.org/2021.acl-long.376.pdf) | ACL| code｜
+
+
+## Knowledge Graph Completion
+
+| Year | Title                                                       | Venue | Code |
+| -----|-------------------------------------------------------------| ----- | ---- |
+| 2019 |[COMET : Commonsense Transformers for Automatic Knowledge Graph Construction](https://aclanthology.org/P19-1470.pdf) | ACL| [code](git@github.com:atcbosselut/comet-commonsense.git)｜
+
+
