@@ -21,3 +21,9 @@ A list of papers in Knowledge Graph
 |2019 |[COMET : Commonsense Transformers for Automatic Knowledge Graph Construction](https://aclanthology.org/P19-1470.pdf) | ACL |[code](git@github.com:atcbosselut/comet-commonsense.git) |
 |2019| [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://arxiv.org/pdf/1906.01195.pdf)|ACL|[code](https://github.com/deepakn97/relationPrediction)|
 | 2020| [Composition-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1911.03082.pdf)|ICLR| [code](https://github.com/malllabiisc/CompGCN)
+
+
+## General Heterogeneous Graph Methods
+| Year | Title                                                       | Venue | Code |
+| -----|-------------------------------------------------------------| ----- | ---- |
+|2021 | [Are we really making much progress? Revisiting, benchmarking, and refining heterogeneous graph neural networks](https://keg.cs.tsinghua.edu.cn/jietang/publications/KDD21-Lv-et-al-HeterGNN.pdf)|KDD|[code](https://github.com/THUDM/HGB)|
