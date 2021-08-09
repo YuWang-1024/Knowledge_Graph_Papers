@@ -19,5 +19,5 @@ A list of papers in Knowledge Graph
 | -----|-------------------------------------------------------------| ----- | ---- |
 |2017|[Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103.pdf)|ESWC|[code](https://github.com/tkipf/relational-gcn)|
 |2019 |[COMET : Commonsense Transformers for Automatic Knowledge Graph Construction](https://aclanthology.org/P19-1470.pdf) | ACL |[code](git@github.com:atcbosselut/comet-commonsense.git) |
-| 2019| [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://arxiv.org/pdf/1906.01195.pdf)|ACL|[code](https://github.com/deepakn97/relationPrediction)|
-
+|2019| [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://arxiv.org/pdf/1906.01195.pdf)|ACL|[code](https://github.com/deepakn97/relationPrediction)|
+| 2020| [Composition-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1911.03082.pdf)|ICLR| [code](https://github.com/malllabiisc/CompGCN)
