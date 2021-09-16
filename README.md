@@ -12,7 +12,7 @@ A list of papers in Knowledge Graph
 | -----|-------------------------------------------------------------| ----- | ---- |
 | 2021 |[Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks](https://aclanthology.org/2021.acl-long.376.pdf) | ACL| code |
 | 2021 | [EXPLAINABLE SUBGRAPH REASONING FOR FORECASTING ON TEMPORAL KNOWLEDGE GRAPHS](https://openreview.net/pdf?id=pGIHq1m7PU) | ICLR | code|
-
+| 2021| [RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](https://openreview.net/pdf?id=tGZu6DlbreV)|ICLR|[code](https://github.com/DeepGraphLearning/RNNLogic)|
 ## Knowledge Graph Completion
 
 | Year | Title                                                       | Venue | Code |
@@ -20,9 +20,9 @@ A list of papers in Knowledge Graph
 |2017|[Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103.pdf)|ESWC|[code](https://github.com/tkipf/relational-gcn)|
 |2019 |[COMET : Commonsense Transformers for Automatic Knowledge Graph Construction](https://aclanthology.org/P19-1470.pdf) | ACL |[code](git@github.com:atcbosselut/comet-commonsense.git) |
 |2019| [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://arxiv.org/pdf/1906.01195.pdf)|ACL|[code](https://github.com/deepakn97/relationPrediction)|
-| 2020| [Composition-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1911.03082.pdf)|ICLR| [code](https://github.com/malllabiisc/CompGCN)
+|2020| [Composition-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1911.03082.pdf)|ICLR| [code](https://github.com/malllabiisc/CompGCN)
 |2021|[Relational Message Passing for Knowledge Graph Completion](https://arxiv.org/pdf/2002.06757.pdf)|KDD|[Code](https://github.com/hwwang55/PathCon)|
-
+|2021| [## Interpreting Knowledge Graph Relation Representation from Word Embeddings](https://openreview.net/pdf?id=gLWj29369lW)|ICLR|code|
 ## General Heterogeneous Graph Methods
 | Year | Title                                                       | Venue | Code |
 | -----|-------------------------------------------------------------| ----- | ---- |
