@@ -23,7 +23,8 @@ A list of papers in Knowledge Graph
 |2020| [Composition-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1911.03082.pdf)|ICLR| [code](https://github.com/malllabiisc/CompGCN)
 |2021|[Relational Message Passing for Knowledge Graph Completion](https://arxiv.org/pdf/2002.06757.pdf)|KDD|[Code](https://github.com/hwwang55/PathCon)|
 |2021| [Interpreting Knowledge Graph Relation Representation from Word Embeddings](https://openreview.net/pdf?id=gLWj29369lW)|ICLR|code|
-|2021| [## Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/pdf?id=pGIHq1m7PU)|ICLR|code|
+|2021| [Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/pdf?id=pGIHq1m7PU)|ICLR|code|
+|2021| [Robust Knowledge Graph Completion with Stacked Convolutions and a Student Re-Ranking Network](https://aclanthology.org/2021.acl-long.82.pdf)|ACL|[code](https://github.com/justinlovelace/robust-kg-completion)
 ## General Heterogeneous Graph Methods
 | Year | Title                                                       | Venue | Code |
 | -----|-------------------------------------------------------------| ----- | ---- |
